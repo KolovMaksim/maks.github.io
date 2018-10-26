@@ -8,6 +8,8 @@
 ![](https://github.com/KolovMaksim/maks.github.io/blob/master/model.png)
 ![](https://github.com/KolovMaksim/maks.github.io/blob/master/12323.PNG)
 
+![](https://github.com/KolovMaksim/maks.github.io/blob/master/mans.png)
+
 ## Лабораторная 2
 * [ссылка на модель декомпозиции](https://github.com/KolovMaksim/maks.github.io/blob/master/ind-tilda.rsf)
 * [ссылка на рисунок контекста](https://github.com/KolovMaksim/maks.github.io/blob/master/444.PNG)
