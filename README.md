@@ -10,5 +10,9 @@
 ## Лабораторная 2
 * [ссылка на модель декомпозиции](https://github.com/KolovMaksim/maks.github.io/blob/master/ind-tilda.rsf)
 * [ссылка на рисунок контекста](https://github.com/KolovMaksim/maks.github.io/blob/master/444.PNG)
+![](https://github.com/KolovMaksim/maks.github.io/blob/master/444.PNG)
 * [ссылка на рисунок диаграммы PDC](https://github.com/KolovMaksim/maks.github.io/blob/master/12323.PNG)
+![](https://github.com/KolovMaksim/maks.github.io/blob/master/12323.PNG)
+## Лабораторная 3
 * [ссылка на рисунок диаграммы DFD](https://github.com/KolovMaksim/maks.github.io/blob/master/887.PNG)
+![](https://github.com/KolovMaksim/maks.github.io/blob/master/887.PNG)
