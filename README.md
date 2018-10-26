@@ -6,6 +6,7 @@
 * [ссылка на модель](https://github.com/KolovMaksim/maks.github.io/blob/master/indiv(maks).rsf)
 * [ссылка на модель 2](https://github.com/KolovMaksim/maks.github.io/blob/master/model.png)
 ![](https://github.com/KolovMaksim/maks.github.io/blob/master/model.png)
+![](https://github.com/KolovMaksim/maks.github.io/blob/master/12323.PNG)
 
 ## Лабораторная 2
 * [ссылка на модель декомпозиции](https://github.com/KolovMaksim/maks.github.io/blob/master/ind-tilda.rsf)
