@@ -7,7 +7,7 @@
 * [ссылка на модель 2](https://github.com/KolovMaksim/maks.github.io/blob/master/model.png)
 ![](https://github.com/KolovMaksim/maks.github.io/blob/master/model.png)
 ![](https://github.com/KolovMaksim/maks.github.io/blob/master/12323.PNG)
-
+* [Ссылка на код UML(Диаграмма прецедентов)](https://github.com/KolovMaksim/maks.github.io/blob/master/mansText.txt)
 ![](https://github.com/KolovMaksim/maks.github.io/blob/master/mans.png)
 
 ## Лабораторная 2
