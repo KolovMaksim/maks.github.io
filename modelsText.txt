@@ -1,0 +1,15 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Модули
+class Форма\nвведения\nзапроса
+Модули <|-- Экранная\nформа
+Экранная\nформа <|-- Форма\nвведения\nзапроса
+Экранная\nформа <|-- Форма\nпостороенного\nмаршрута
+hide members
+hide circle
+hide methods
+@enduml
